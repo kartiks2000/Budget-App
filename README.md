@@ -10,7 +10,15 @@ Concepts used -:
 
 2) IIFE
 
-3) and many,many others......
+3) object constructors
+
+4) methods
+
+5) properties
+
+6) prototyping
+
+7) and many others......
 
 
 give it a try...
